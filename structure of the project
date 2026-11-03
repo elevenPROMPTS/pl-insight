@@ -1,0 +1,14 @@
+pl-insight/
+│
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   ├── package.json
+│   └── index.html
+│
+├── backend/          (when implemented)
+├── data/             (documented datasets)
+├── docs/
+├── screenshots/
+├── README.md
+└── .gitignore
